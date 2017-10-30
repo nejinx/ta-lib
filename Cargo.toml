@@ -12,4 +12,4 @@ license = "BSD-3-Clause"
 description = "ta-lib bindings for rust"
 
 [dependencies]
-libc = "0.2.20"
+libc = "0.2"
